@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trabalho 01</string>
+    <string name="red">Vermelho</string>
+    <string name="blue">Azul</string>
+    <string name="green">Verde</string>
+    <string name="image">Selecionar imagem</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
