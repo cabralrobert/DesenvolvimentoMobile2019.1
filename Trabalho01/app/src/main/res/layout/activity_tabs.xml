@@ -38,11 +38,20 @@
                         android:layout_height="match_parent"
                         android:orientation="vertical">
 
-                        <Button
-                            android:id="@+id/button2"
+                        <TextView
+                            android:id="@+id/tvActivityTabs"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Button" />
+                            android:text=""
+                            android:gravity="center"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+                        <Button
+                            android:id="@+id/buttonSong"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:onClick="onClickButtonSong"
+                            android:text="Tocar Som" />
 
                     </LinearLayout>
 
@@ -62,14 +71,6 @@
                 </FrameLayout>
             </LinearLayout>
         </TabHost>
-
-        <TextView
-            android:id="@+id/tvActivityTabs"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text=""
-            android:gravity="center"
-            android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
