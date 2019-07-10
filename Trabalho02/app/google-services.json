@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354474263611",
+    "firebase_url": "https://androidquixada20182.firebaseio.com",
+    "project_id": "androidquixada20182",
+    "storage_bucket": "androidquixada20182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354474263611:android:367dfd9d6083fc58",
+        "android_client_info": {
+          "package_name": "br.ufc.quixada.dadm.variastelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354474263611-2dlqt3c0v45te688eg01a0rbrah72hkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ufc.quixada.dadm.variastelas",
+            "certificate_hash": "3ff2ed39d77fa2c53ce295fd526ea99577027177"
+          }
+        },
+        {
+          "client_id": "354474263611-kgcatsdi8m2j7k4869iplup95vbqgamp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWrSedg1iLVvVawpy_G5gYujJypp7puc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354474263611-kgcatsdi8m2j7k4869iplup95vbqgamp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
